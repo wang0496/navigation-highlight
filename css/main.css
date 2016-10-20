@@ -3,7 +3,7 @@
 }
 
 html {
-  background-color: #dbd6cf;
+  background-color: #fff;
   box-sizing: border-box;
   line-height: 1.5;
 }
@@ -51,4 +51,11 @@ h1 {
 
 .nav a:hover {
   background-color: #cc1465;
+}
+
+h2 {
+  font-family: 'Sigmar One', cursive;
+  font-size: 1.875rem;
+  color: #cc1465;
+
 }
